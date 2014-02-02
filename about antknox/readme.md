@@ -2,17 +2,17 @@
 
 个人爱好
 
-音乐
+      音乐
 
-电影
+      电影
 
-阅读
+      阅读
 
-记录
+      记录
 
       豆瓣
 
-         http://www.douban.com
+   http://www.douban.com
 
          豆瓣音乐
 
