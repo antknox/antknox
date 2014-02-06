@@ -1,4 +1,4 @@
-关于 antknox
+#关于 antknox
 
       个人爱好
 
@@ -10,7 +10,7 @@
 
          记录
 
-      豆瓣
+##豆瓣
 
    http://www.douban.com
 
@@ -26,7 +26,7 @@
 
    http://read.douban.com
 
-         antknox
+###antknox
 
    http://www.douban.com/people/antknox
 

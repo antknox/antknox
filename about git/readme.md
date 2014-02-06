@@ -6,7 +6,7 @@
 
 [Github-antknox](http://www.github.com/antknox)
 
-P.S
+##P.S
 
 请看源文件([戳这里](https://raw.github.com/antknox/antknox/master/about git/readme.md))
 
