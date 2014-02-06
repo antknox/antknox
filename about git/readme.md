@@ -1,10 +1,10 @@
-:个人说明
+#个人说明
 
-:基于github,保存现写代码...
+基于github,保存现写代码...
 
-:保存现存操作github程式...
+保存现存操作github程式...
 
-http://www.github.com/antknox
+[Github-antknox](http://www.github.com/antknox)
 
 P.S
 
